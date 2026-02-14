@@ -7,11 +7,12 @@ pSAR is an automated InSAR (Interferometric Synthetic Aperture Radar) processing
 
 # Installation
 ## Basic
-- `Python` = 3.11.0
+- Python = 3.11.0
   -  $ wget https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-py311_23.11.0-1-Linux-x86_64.sh
   -  $ bash Miniconda3-py311_23.11.0-1-Linux-x86_64.sh
-- `gmt` = 6.4.0
-- `gmtsar` = 6.6 (snaphu uses version 2.0.7)
+- gmt = 6.4.0
+- gmtsar = 6.6 or higher
+- snaphu = 2.0.7 
 
 ## External Modules
 - `numpy` = 1.26.4
