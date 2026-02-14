@@ -38,8 +38,8 @@ pSAR is an automated InSAR (Interferometric Synthetic Aperture Radar) processing
 - `utm`
 
 ## python_script
-pSAR_s1sorting.py
-pSAR_S1select.py
+pSAR_s1sorting.py\n
+pSAR_S1select.py\n
 pSAR_copdemdownload.py
 pSAR_COP30M_downloader.py
 pSAR_COP30M_tar2grd.py
